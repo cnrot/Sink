@@ -1,6 +1,6 @@
 # ⚡ Sink
 
-**A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.**
+**A Simple / Speedy / Secure Link Shortener with Analytics.**
 
 <a href="https://trendshift.io/repositories/10421" target="_blank">
   <img
@@ -54,14 +54,6 @@
 - **🪄 AI Slug:** Leverage AI to generate slugs.
 - **Link Expiration:** Set expiration dates for your links.
 
-## 🪧 Demo
-
-Experience the demo at [Sink.Cool](https://sink.cool/dashboard). Log in using the Site Token below:
-
-```txt
-Site Token: SinkCool
-```
-
 <details>
   <summary><b>Screenshots</b></summary>
   <img alt="Analytics" src="./docs/images/sink.cool_dashboard.png"/>
@@ -94,12 +86,6 @@ We welcome your contributions and PRs.
 - [ ] Analytics Enhancements (Support for merging filter conditions)
 - [ ] Dashboard Performance Optimization (Infinite loading)
 - [ ] Units Test
-
-## 🏗️ Deployment
-
-> Video tutorial: [Watch here](https://www.youtube.com/watch?v=MkU23U2VE9E)
-
-We currently support deployment to [Cloudflare Workers](./docs/deployment/workers.md) (recommended) and [Cloudflare Pages](./docs/deployment/pages.md).
 
 ## ⚒️ Configuration
 
@@ -134,18 +120,3 @@ We currently do not support native MCP Server, but we have OpenAPI documentation
   }
 }
 ```
-
-## 🙋🏻 FAQs
-
-[FAQs](./docs/faqs.md)
-
-## 💖 Credits
-
-1. [**Cloudflare**](https://www.cloudflare.com/)
-2. [**NuxtHub**](https://hub.nuxt.com/)
-3. [**Astroship**](https://astroship.web3templates.com/)
-
-## ☕ Sponsor
-
-1. [Follow Me on X(Twitter)](https://404.li/kai).
-2. [Become a sponsor to on GitHub](https://github.com/sponsors/ccbikai).
